@@ -1,8 +1,12 @@
 # bcjc_final
-This repository is used to store the code（期末报告代码.ipynb） and data(ckd.xlsx) for the Programming Foundation final report.
-复现步骤；notebook代码框依次运行即可
-当前环境：3.11.4 | packaged by Anaconda, Inc. | (main, Jul  5 2023, 13:38:37) [MSC v.1916 64 bit (AMD64)]
-使用包的版本：
+This repository is used to store the code（期末报告代码.ipynb） and data(ckd.xlsx) for the Programming Foundation final report.  
+
+复现步骤；notebook代码框依次运行即可  
+
+当前环境：3.11.4 | packaged by Anaconda, Inc. | (main, Jul  5 2023, 13:38:37) [MSC v.1916 64 bit (AMD64)]  
+
+使用包的版本：  
+
 aiobotocore @ file:///C:/b/abs_74o47svlua/croot/aiobotocore_1680004300264/work
 aiofiles @ file:///C:/b/abs_9ex6mi6b56/croot/aiofiles_1683773603390/work
 aiohttp @ file:///C:/ci_311/aiohttp_1676432932774/work
